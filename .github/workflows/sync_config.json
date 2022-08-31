@@ -13,16 +13,6 @@
         },
         "bypassRules": true,
         "autoCreate": true,
-        "areaPath": "ALZ GitHub Sync Test\\Bicep",
-        "mappings": {
-            "handles": {
-                "jtracey93": "jatracey@microsoft.com",
-                "mblant": "mblant@microsoft.com",
-                "krowlandson": "kerowlan@microsoft.com",
-                "matt-FFFFFF": "mawhi@microsoft.com",
-                "JefferyMitchell": "jemitche@microsoft.com",
-                "paulgrimley": "paulgr@microsoft.com"
-            }
-        }
+        "areaPath": "ALZ GitHub Sync Test\\Bicep"
     }
 }
