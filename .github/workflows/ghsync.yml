@@ -19,3 +19,4 @@ jobs:
         ado_token: '${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}'
         github_token: '${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}'
         config_file: './.github/workflows/sync_config.json'
+        ado_config: '${{ secrets.ADO_CONFIG }}'
